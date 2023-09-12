@@ -1,0 +1,18 @@
+CREATE TABLE "MHS_volleyball_stats" (
+	"Players"	TEXT,
+	"Aces"	REAL,
+	"ServingErr"	REAL,
+	"TotalServes"	REAL,
+	"Digs"	REAL,
+	"DefenseErrors"	REAL,
+	"Kills"	REAL,
+	"HittingErrors"	REAL,
+	"AttackAttempts"	REAL,
+	"ReceiveErrors"	REAL,
+	"Hitpercentage"	TEXT,
+	"TotalReceptions"	REAL,
+	"ReceiveQualityTotal"	REAL,
+	"ServeReceiveRating"	TEXT,
+	"GamesPlayed"	REAL
+);
+
